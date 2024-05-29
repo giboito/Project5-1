@@ -1,0 +1,59 @@
+iframe {
+    max-width: 100%;
+}
+body {
+    color: white;
+    background-color: purple;
+      height: 100%;
+  align-items: center;
+    text-align: center;
+     font-family: "Edu TAS Beginner", cursive;
+    
+}
+.heading {
+  width: 100%; 
+  border: 2px solid white; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+h1 {
+  margin: 0; 
+  padding: 10px; 
+    font-family: "Mochiy Pop P One", sans-serif;
+    color: skyblue
+}
+.section1 {
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px;
+}
+.section2 {
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px;
+}
+.section3 {
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px;
+}
+.hozier {
+     width: 100%; 
+  border: 2px solid white; 
+}
+.noah {
+     width: 100%; 
+  border: 2px solid white; 
+}
+.jao {
+     width: 100%; 
+  border: 2px solid white; 
+}
